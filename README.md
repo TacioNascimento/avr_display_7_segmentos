@@ -1,9 +1,15 @@
 # Display 7 segmentos
 
 
-![circuito](img/circuito.png)
+![circuito](img/circuito_4.png)
 
-|Titulo|Conteudo|
-|:----|------:|
-|Projeto 1|Conteudo 1|
-|Projeto 2|Conteudo 2|
+|Função|Dispositivo       |Descrição        |Pino(Arduino Uno)|Pino(ATmega328P)|PORT|
+|:----:|:----------------:|:---------------:|:---------------:|:--------------:|:--:|
+|Saída |Diplay 7 segmentos|Segmento a       |0                |2               |PD0 |
+|Saída |Diplay 7 segmentos|Segmento b       |1                |3               |PD1 |
+|Saída |Diplay 7 segmentos|Segmento c       |2                |4               |PD2 |
+|Saída |Diplay 7 segmentos|Segmento d       |3                |5               |PD3 |
+|Saída |Diplay 7 segmentos|Segmento e       |4                |6               |PD4 |
+|Saída |Diplay 7 segmentos|Segmento f       |5                |11              |PD5 |
+|Saída |Diplay 7 segmentos|Segmento g       |6                |12              |PD6 |
+|Saída |Diplay 7 segmentos|Segmento p       |7                |13              |PD7 |
